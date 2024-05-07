@@ -49,6 +49,8 @@
   .header{
     display: flex;
     flex-direction: row; /* valore di default */
+    justify-content: space-between;
+    text-decoration: none;
   }
   
   .menuWrapper ul{
