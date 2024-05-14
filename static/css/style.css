@@ -57,4 +57,42 @@
     list-style: none;
     padding: 0;
     display: flex;
+    
+  }
+
+  .menuWrapper ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    
+  }
+
+  .menuWrapper ul li .h{
+    text-decoration: none;
+    width: 61px;
+    height: 25px;
+    color:white;
+  }
+
+  .menuWrapper ul li .n{
+    margin-right: 10px;
+    margin-left: 35px;
+    text-decoration: none;
+    width: 55px;
+    height: 25px;
+    color:white;
+  }
+
+  .menuWrapper ul li .c{
+    margin-right: 10px;
+    margin-left: 35px;
+    margin-top: 50px;
+    text-decoration: none;
+    width: 83px;
+    height: 25px;
+    color:white;
+  }
+
+  .logoWrapper{
+    margin-left: 20px;
   }
