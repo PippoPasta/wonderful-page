@@ -72,6 +72,7 @@
     width: 61px;
     height: 25px;
     color:white;
+    font-size:15px;
   }
 
   .menuWrapper ul li .n{
@@ -81,18 +82,32 @@
     width: 55px;
     height: 25px;
     color:white;
+    font-size:15px;
   }
 
   .menuWrapper ul li .c{
     margin-right: 10px;
     margin-left: 35px;
-    margin-top: 50px;
+    margin-top: 100px;
     text-decoration: none;
     width: 83px;
     height: 25px;
     color:white;
+    font-size:15px;
   }
 
   .logoWrapper{
     margin-left: 20px;
+  }
+
+
+  .reflink{
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
+  .wonderfulpage{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
   }

@@ -71,6 +71,7 @@
     font-family: "Merriweather", serif;
     font-weight: 700;
     font-style: italic;
+    font-size: 10px;
   }
   
   .merriweather-black-italic {
@@ -85,4 +86,12 @@
     font-style: normal;
     font-weight: 700; 
     line-height: 26.4px;
+  }
+
+
+  .merriweather-bold-wpage {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
   }
