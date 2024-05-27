@@ -80,18 +80,25 @@
     font-style: italic;
   }
   
+  .merriweather-bold-wpage {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    position: absolute;
+    width: 1057px;
+    height: 50px;
+    left: 320.8px;
+    top: 380.25px;
+    color: #FFFFFF;
+
+
+  }
+
   p{
     font-family: "Hoefler Text";
     font-size: 24px;
     font-style: normal;
     font-weight: 700; 
     line-height: 26.4px;
-  }
-
-
-  .merriweather-bold-wpage {
-    font-family: "Merriweather", serif;
-    font-weight: 700;
-    font-style: normal;
-    font-size: 80px;
   }
